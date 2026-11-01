@@ -1,0 +1,14 @@
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\bin\Debug\pyatnashki.exe.config
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\bin\Debug\pyatnashki.exe
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\bin\Debug\pyatnashki.pdb
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\bin\Debug\Newtonsoft.Json.dll
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\bin\Debug\Newtonsoft.Json.xml
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\obj\Debug\pyatnashki.csproj.AssemblyReference.cache
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\obj\Debug\pyatnashki.Form1.resources
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\obj\Debug\pyatnashki.Properties.Resources.resources
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\obj\Debug\pyatnashki.csproj.GenerateResource.cache
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\obj\Debug\pyatnashki.csproj.CoreCompileInputs.cache
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\obj\Debug\pyatnashki.csproj.Up2Date
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\obj\Debug\pyatnashki.exe
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\obj\Debug\pyatnashki.pdb
+E:\компьютерка\C-C#-C++\pyatnashki\pyatnashki\obj\Debug\pyatnashki.exe.config
